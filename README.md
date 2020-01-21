@@ -1,5 +1,5 @@
 ## Simple Calculator App for a Project
-## Screen Shots of Created app is below Please Refer..
+:loudspeaker: Screen Shots of Created app is below Please Refer..
 
 - Desktop Web Browser
 
